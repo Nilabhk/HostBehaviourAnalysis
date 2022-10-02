@@ -24,3 +24,15 @@ Verified Identity, Positive comments in reviews, Host response rate are few indi
 
 ![image](https://user-images.githubusercontent.com/66992000/193454946-83377cba-13df-4b6d-a157-d91413dd1ced.png)
 
+
+<strong>Screenshot of graphs with Super Host and Normal Host behaviour </strong>
+
+![image](https://user-images.githubusercontent.com/66992000/193455260-2d255c76-f7b1-4c28-bb70-05b556b56500.png)
+
+![image](https://user-images.githubusercontent.com/66992000/193455277-509d597f-e71e-48b4-a5d8-aac388bd0261.png)
+
+![image](https://user-images.githubusercontent.com/66992000/193455303-1931e226-6ac8-4543-8233-9daf0e8d4a4d.png)
+
+![image](https://user-images.githubusercontent.com/66992000/193455314-a53c4e03-4885-4e70-b3c3-3c21a1ff0533.png)
+
+![image](https://user-images.githubusercontent.com/66992000/193455355-43910834-12b5-479d-a4e0-5414f5d64a89.png)
